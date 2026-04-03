@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...<h1 align="center">Hi 👋, I'm Rishi Baranwal</h1>
 <h3 align="center">Full Stack Developer | Web Developer | Building Scalable Web Applications</h3>
 
+
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
