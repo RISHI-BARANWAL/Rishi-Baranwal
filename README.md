@@ -13,6 +13,8 @@
 <table>
 <tr>
 <td width="60%">
+---
+  
 ## 👨‍💻 About Me
 
 - 💼 Full Stack Developer with internship experience in web development  
