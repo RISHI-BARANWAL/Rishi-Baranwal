@@ -20,7 +20,7 @@
 
 <td width="40%" align="center">
 
-<img style="border-radius: '10px' " src="https://media.tenor.com/oYlPjC2s2qYAAAAM/apple-apple-mac.gif" width="300"/>
+<img src="https://20464569.fs1.hubspotusercontent-na1.net/hu…64569/Downloadable%20Content/Hacked_Optimized.gif" width="300"/>
 
 </td>
 </tr>
@@ -96,14 +96,14 @@
 
 ## 🌐 Connect With Me
 
-- 📍 Location: Azamgarh, Uttar Pradesh  
+- 📍 Location: Gurugram, Haryana  
 - 📞 Phone: +91 7784941718  
 
 ---
 
 ⭐ If you like my work, feel free to star ⭐ my repositories!
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Tech World Future...
+- 📫 How to reach me: er.rishibaranwal@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: N08 H4CK3R A D3V
