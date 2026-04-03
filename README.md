@@ -71,7 +71,7 @@
 - 🔹 Spotify Clone Website  
 - 🔹 Note Making React Application
 
-<img src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300"/>
+<img align="right" src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300"/>
 
 ---
 
