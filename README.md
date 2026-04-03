@@ -63,6 +63,8 @@
 
 ## 📌 Projects
 
+<img align="right" src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300" height="300px"/>
+
 - 🔹 Food Delivery Platform (MERN Stack)  
 - 🔹 Medical Search Engine (Healthcare assistance platform)  
 - 🔹 Weather Tracker Website  
@@ -71,7 +73,6 @@
 - 🔹 Spotify Clone Website  
 - 🔹 Note Making React Application
 
-<img align="right" src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300" height="300px"/>
 
 ---
 
