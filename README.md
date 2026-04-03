@@ -13,8 +13,6 @@
 
 
 
-
-
 - 💼 Full Stack Developer with internship experience in web development  
 - 🚀 Skilled in building **responsive and dynamic web applications**  
 - 🔐 Knowledge of **frontend + backend technologies (MERN + Java stack)**  
