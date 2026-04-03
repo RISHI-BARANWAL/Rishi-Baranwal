@@ -20,7 +20,7 @@
 
 <td width="40%" align="center">
 
-<img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://github.com/RISHI-BARANWAL/Rishi-Baranwal/blob/main/mac.gif" width="300"/>
+<img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://github.com/RISHI-BARANWAL/Rishi-Baranwal/blob/main/mac.gif" width="300"/> 
 
 </td>
 </tr>
@@ -113,6 +113,9 @@
 - 📞 Phone: +91 7784941718  
 
 ---
+<table>
+<tr>
+<td width="60%">
 
 ⭐ If you like my work, feel free to star ⭐ my repositories!
 - 🤔 I’m looking for help with ...
@@ -120,3 +123,11 @@
 - 📫 How to reach me: er.rishibaranwal@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A D3V !5 N08 D H4CK3R
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://i.makeagif.com/media/5-16-2018/RtITeu.gif" width="300" />
+</td>
+</tr>
+</table>
