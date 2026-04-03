@@ -6,7 +6,7 @@
 
 
 <br/>
-<img align="right" alt="Coding" width="400"  style="margin-top: 50px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400"  style="margin-top: 50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
 
