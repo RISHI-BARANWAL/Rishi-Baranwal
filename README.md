@@ -61,13 +61,11 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+  
 ## 📌 Projects
-
-<table align="right">
-  <tr>
-    <img align="right" src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300" height="300px"/>
-  </tr>
-</table>
 
 - 🔹 Food Delivery Platform (MERN Stack)  
 - 🔹 Medical Search Engine (Healthcare assistance platform)  
@@ -76,6 +74,14 @@
 - 🔹 Blockchain Token (Ethereum, Solidity)  
 - 🔹 Spotify Clone Website  
 - 🔹 Note Making React Application
+
+</td>
+
+<td width="40%" align="center" >
+  <img align="right" src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300" height="300px"/>
+</td>
+</tr>
+</table>
 
 
 ---
