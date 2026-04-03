@@ -113,7 +113,7 @@
 - 📞 Phone: +91 7784941718  
 
 ---
-<table>
+<table align="center">
 <tr>
 <td width="60%">
 
