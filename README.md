@@ -6,14 +6,20 @@
 
 
 <br/>
-<img align="right" alt="Coding" width="400"  style="margin-top: 50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
 
+<h1 align="center">Hi 👋, I'm Rishi Baranwal</h1>
+<h3 align="center">Full Stack Developer | Web Developer | Building Scalable Web Applications</h3>
+
+---
+
+<table>
+<tr>
+<td width="60%">
+
 ## 👨‍💻 About Me
-
-
-
 
 - 💼 Full Stack Developer with internship experience in web development  
 - 🚀 Skilled in building **responsive and dynamic web applications**  
@@ -21,6 +27,16 @@
 - 🧠 Strong foundation in **DSA, OOP & software development**  
 - 🤝 Experience working in **team environments & real-world projects**  
 - 🎯 Actively looking for **Software Developer / Web Developer roles**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*9zq3F2k0v9c6U9R1yXK0lA.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
