@@ -20,7 +20,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" />
+<img src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="400"/>
 
 </td>
 </tr>
