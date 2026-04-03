@@ -12,7 +12,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Baranwal</h1>
 <h3 align="center">Full Stack Developer | Web Developer | Building Scalable Web Applications</h3>
 
---
+---
 
 <table>
 <tr>
