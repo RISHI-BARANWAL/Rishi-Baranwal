@@ -20,7 +20,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://github.com/RISHI-BARANWAL/Rishi-Baranwal/blob/main/mac.gif" width="300"/>
+<img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%);" src="https://github.com/RISHI-BARANWAL/Rishi-Baranwal/blob/main/mac.gif" width="300"/>
 
 </td>
 </tr>
