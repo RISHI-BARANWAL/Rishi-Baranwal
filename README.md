@@ -20,7 +20,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://cdn.prod.website-files.com/5f2682517cfa44c40febf8fa/67afba9efd7da562e4abd8d9_66c4abe296fa087b36c5fc47_6442ce1089181d6daa4c6ddc_Hacked_low-res.gif" width="300"/>
+<img src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300"/>
 
 </td>
 </tr>
@@ -61,7 +61,7 @@
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td width="60%">
   
