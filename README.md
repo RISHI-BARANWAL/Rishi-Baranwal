@@ -63,7 +63,11 @@
 
 ## 📌 Projects
 
-<img align="right" src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300" height="300px"/>
+<table align="right">
+  <tr>
+    <img align="right" src="https://cdn.dribbble.com/userupload/22346834/file/original-9cc462419ec12bac0b59d79b3c471d15.gif" width="300" height="300px"/>
+  </tr>
+</table>
 
 - 🔹 Food Delivery Platform (MERN Stack)  
 - 🔹 Medical Search Engine (Healthcare assistance platform)  
