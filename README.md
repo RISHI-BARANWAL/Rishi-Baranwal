@@ -110,7 +110,8 @@
 ## 🌐 Connect With Me
 
 - 📍 Location: Gurugram, Haryana  
-- 📞 Phone: +91 7784941718  
+- 📞 Phone: +91 7784941718
+- 📨 Email: er.rishibaranwal@gmail.com
 
 ---
 <table align="center">
@@ -120,7 +121,7 @@
 ⭐ If you like my work, feel free to star ⭐ my repositories!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Tech World Future...
-- 📫 How to reach me: er.rishibaranwal@gmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/rishi-baranwal-0688771b9/">LinkedIn</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A D3V !5 N08 D H4CK3R
 
