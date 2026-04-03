@@ -20,7 +20,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://tenor.com/search/macbook-apple-gifs" width="300"/>
+<img src="https://media1.tenor.com/m/iiqjMUayMrkAAAAC/apple-apple-mac.gif" width="300"/>
 
 </td>
 </tr>
