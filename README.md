@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishi Baranwal</h1>
+<h1 align="center">Hi Dev👋, I'm Rishi Baranwal</h1>
+<h2 align="center">MERN Stack Dev Loading...</h2>
 <h3 align="center">Full Stack Developer | Web Developer | Building Scalable Web Applications</h3>
 
 ---
