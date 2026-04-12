@@ -1,6 +1,6 @@
 <h1 align="center">Hi Dev👋, I'm Rishi Baranwal</h1>
-<h2 align="center">MERN Stack Dev <a href="https://github.com/RISHI-BARANWAL/Rishi-Baranwal/blob/main/RISHI%20CVRes.pdf">RESUME</a> Loading...</h2>
-<h3 align="center">Full Stack Developer | Web Developer | Building Scalable Web Applications</h3>
+<h2 align="center">MERN + PHP + JAVA <a href="https://github.com/RISHI-BARANWAL/Rishi-Baranwal/blob/main/RISHI%20CVRes.pdf">RESUME</a> Loading...</h2>
+<h3 align="center">Full Stack Dev | Web Dev | Build Scalable Websites & Applications</h3>
 
 ---
 
